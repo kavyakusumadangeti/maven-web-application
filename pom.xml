@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>application1-snapshot </name>
-	      <url>http://52.66.121.107/2:9980/repository/application1-snapshot/</url>
+	      <url>http://52.66.121.107:9980/repository/application1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
